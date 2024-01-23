@@ -1,0 +1,58 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;,
+  margin-top: 0px;
+}
+
+body {
+    background-color: rgb(0, 0, 0);
+  margin: 0;
+  padding: 0;
+  margin-top: 0px;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 150px;
+    width: 1fr;
+    background-color: rgb(244, 243, 246);
+    border-bottom: 5px solid #6d6d6d;
+}
+header h1 {
+    font-family: "Black Ops One", cursive;
+    text-transform: uppercase;
+    font-size: 50px;
+    margin-bottom: 0px;
+    padding: 10px;
+    height: 25px;
+    
+}
+header h3 {
+    display: flex;
+    font-family: "Black Ops One", cursive;
+    justify-content: flex-end;
+    width: 1600px;
+    padding:0px;
+}
+
+.foto_ayrton{
+    display: flex;
+    justify-content: center;
+}
+
+.Linha{
+    margin-top: 40px;
+    font-size: 30px;
+    color: #FFFFFF;
+}
+
+.Linha div{
+    margin-left: 400px;
+    font-family: 'Quicksand', sans-serif;
+}
+ul{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
